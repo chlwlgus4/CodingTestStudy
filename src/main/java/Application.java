@@ -16,14 +16,17 @@ public class Application {
         for (int i = 0; i < n; i++) {
             System.out.print(n + "번 행 카드번호 입력 : ");
             int cards = sc.nextInt();
+            //입력받은 카드 잘라서 배열에 담기
             int[] card = Stream.of(String.valueOf(cards).split("")).mapToInt(Integer::parseInt).toArray();
 
+            //리스트에 담고
             for (int j = 0; j < card.length; j++) {
                 list.add(card[j]);
             }
+            //가장 작은 숫자만 minCardList
             minCardList.add(Collections.min(list));
         }
         result = Collections.min(minCardList);
-        System.out.println(result); // 최종 답안 출력
+        System.out.println(result);
     }
 }

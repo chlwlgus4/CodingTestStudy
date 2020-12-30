@@ -24,9 +24,14 @@ public class Application {
                 list.add(card[j]);
             }
             //가장 작은 숫자만 minCardList
-            minCardList.add(Collections.min(list));
+//            minCardList.add(Collections.min(list));
+
+            /*행마다 정렬 후 맨 앞자리 저장*/
+            Arrays.sort(card);
+            minCardList.add(card[0]);
         }
         result = Collections.min(minCardList);
+
         System.out.println(result);
     }
 }

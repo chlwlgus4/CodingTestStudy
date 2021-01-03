@@ -10,7 +10,7 @@ public class Main {
 
             switch (move[i]) {
                 case "R":
-                    if(xy[1] <= n) {
+                    if(xy[1] >= n) {
                         xy[1]++;
                     }
                     break;
@@ -25,7 +25,7 @@ public class Main {
                     }
                     break;
                 case "D":
-                    if(xy[0] <= n) {
+                    if(xy[0] >= n) {
                         xy[0]++;
                     }
                     break;

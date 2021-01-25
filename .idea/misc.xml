@@ -3,6 +3,12 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/FreezeBeverages" />
+    <file type="web" url="file://$PROJECT_DIR$/JadenCase" />
+    <file type="web" url="file://$PROJECT_DIR$/NumberCardGame" />
+    <file type="web" url="file://$PROJECT_DIR$/RoyalKnight" />
+    <file type="web" url="file://$PROJECT_DIR$/Timer" />
+    <file type="web" url="file://$PROJECT_DIR$/TopBottomSideToSide" />
+    <file type="web" url="file://$PROJECT_DIR$/UpToOne" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_15" project-jdk-name="openjdk-15" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />

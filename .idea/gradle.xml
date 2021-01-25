@@ -11,6 +11,60 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/JadenCase" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/JadenCase" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/NumberCardGame" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/NumberCardGame" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RoyalKnight" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/RoyalKnight" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/Timer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/Timer" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TopBottomSideToSide" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/TopBottomSideToSide" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/UpToOne" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/UpToOne" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>

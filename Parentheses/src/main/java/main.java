@@ -6,7 +6,7 @@ public class main {
         boolean answer = true;
 
         Stack<Character> stack = new Stack<>();
-        if(s.substring(0,1).equals(")")) return false;
+        if(s.charAt(0) == ')') return false;
 
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
